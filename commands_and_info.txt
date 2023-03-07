@@ -1,0 +1,5 @@
+Jetstream Tutorial:
+https://www.youtube.com/playlist?list=PLFHz2csJcgk8gx6nl6V7JY5eBIO-A6Spx
+
+Jetstream commands:
+https://jetstream.laravel.com/
